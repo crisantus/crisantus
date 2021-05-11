@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crisantus
+- 👋 Hi, I’m Chrisantus
 - 👀 I’m interested in mobile App development (flutter)
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on App development
